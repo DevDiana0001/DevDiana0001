@@ -22,7 +22,7 @@ Me chamo Diana Albernaz, tenho 19 anos e sou de São Paulo. Cursei técnico em A
         <img 
             alt="JOBs" 
             title="Linkedln" 
-            src="    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
