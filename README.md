@@ -18,11 +18,11 @@ Me chamo Diana Albernaz, tenho 19 anos e sou de São Paulo. Cursei técnico em A
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/DevDiana0001?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-      <a href="https://github.com/DevDiana0001?tab=followers">
+      <a href="https://www.linkedin.com/in/diana-albernaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img 
             alt="JOBs" 
             title="Linkedln" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DevDiana0001?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -80,6 +80,7 @@ Me chamo Diana Albernaz, tenho 19 anos e sou de São Paulo. Cursei técnico em A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -136,6 +137,7 @@ Me chamo Diana Albernaz, tenho 19 anos e sou de São Paulo. Cursei técnico em A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 
 <br/>
 <br/>
