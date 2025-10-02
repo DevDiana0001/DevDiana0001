@@ -24,6 +24,12 @@ Me chamo Diana Albernaz, tenho 19 anos e sou de São Paulo. Cursei técnico em A
             title="Linkedln" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
+        <a href="https://www.linkedin.com/in/diana-albernaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img 
+            alt="JOBs" 
+            title="Linkedln" 
+            src="https://icongr.am/simple/amazon.svg?size=31&color=00a4eb&colored=false"
+        />
     </a>
 </p>
 
@@ -136,8 +142,53 @@ Me chamo Diana Albernaz, tenho 19 anos e sou de São Paulo. Cursei técnico em A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/><img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=67&color=000000" 
+/><img 
+    align="left" 
+    alt="Android" 
+    title="Andrid"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/android-original.svg?size=77&color=currentColor" 
 />
-
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/csharp-original.svg?size=67&color=000000" 
+/>
+<img 
+    align="left" 
+    alt=".Net" 
+    title=".Net"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=67&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/linux-original.svg?size=67&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="VBA" 
+    title="VBA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/simple/microsoftexcel.svg?size=31&color=00800f&colored=false" 
+/>
 
 <br/>
 <br/>
