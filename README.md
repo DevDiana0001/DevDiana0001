@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Diana Albernaz, tenho 19 anos e sou de São Paulo. Cursei técnico em Analise e Desenvolvimentos de sitemas. Atualmente, estou cursando Banco de Dados na Mackenze. Sou apaixonada por tecnologia, analise e progrmação.
+Me chamo Diana Albernaz, tenho 20 anos e sou de São Paulo. Cursei técnico em Analise e Desenvolvimentos de sitemas. Atualmente, estou cursando Banco de Dados na Mackenze. Sou apaixonada por tecnologia, analise e progrmação.
 
 <p align="left">
     <a href="https://github.com/DevDiana0001?tab=repositories&sort=stargazers">
